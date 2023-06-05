@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rodrigues-22836523b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gbmiropgd/)
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gbmonte9&show_icons=true&theme=merko)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gbmonte9&show_icons=true&theme=merko)
 
 ## Tecnologias
 
